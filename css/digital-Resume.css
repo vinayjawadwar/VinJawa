@@ -197,6 +197,10 @@ a:focus {
   color: var(--white-color);
 }
 
+.experience-section-padding {
+  padding: 4em 0;
+}
+
 .section-padding {
   padding: 8em 0;
 }
@@ -337,7 +341,7 @@ a:focus {
 .hero {
   position: relative;
   margin-top: 20px;
-  padding: 5em;
+  padding: 6em;
   overflow: hidden;
 }
 
